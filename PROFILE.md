@@ -25,7 +25,7 @@ Update it once, keep it consistent everywhere.
 | **GitHub** | [https://github.com/________](https://github.com/ken-uribe) | ✅ |
 | **Figma** | [kuribe@ewu.edu](https://www.figma.com/files/team/1488958611758082170/user/1488958607847155877?fuid=1488958607847155877) | ✅ |
 | **CodePen** | [https://codepen.io/________](https://codepen.io/kuribe) | ✅ |
-| **Portfolio** | *Coming Week 10* | 🔲 |
+| **Portfolio** | [*Coming Week 10*](https://github.com/ken-uribe/landing-page-ku-368) | 🔲 |
 
 ---
 
